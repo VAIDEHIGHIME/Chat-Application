@@ -1,9 +1,9 @@
-# CHAT APPLICATION IN C USING SOCKET PROGRAMMING
+# CHAT APPLICATION 
 ```
 This is a peer to peer level application using  UDP socket Programming in C. 
 Peer A accepts strings from Peer B and vice versa
 ```
-##USAGE
+## USAGE
 
  ```                            
 While executing the Peer A /Peer B process use the following command
