@@ -1,17 +1,31 @@
-# Chatting-application-in-C
-using UDP sockets
+                              =======================================================
+                                    CHAT APPLICATION IN C USING SOCKET PROGRAMMING
+                              =======================================================
+                              
+                              
+This is a peer to peer level application using  UDP socket Programming in C. Peer A accepts strings from Peer B and vice versa.
 
-operating system:Linux ubuntu
+=======================================================
+                          USAGE
+=======================================================
+While executing the Peer A /Peer B process use the following command
 
-peerB communicates to peerA
+Ex: gcc -o A peerA.c
+    ./A
+    
+    OR
+    
+Ex: gcc -o B peerB.c
+    ./B
+  
+=======================================================
+                          OUTPUT
+=======================================================
 
-peerA.c:code for Peer A
-peerB.c:code for Peer B
+At Peer A:
+Peer A says:Hi?How are U?
+Peer B:fine
 
-to compile & run use the command
-gcc -o A peerA.c
-gcc -0 B peerB.c
-
-./A
-./B
-
+At Peer B:
+Peer A:Hi?How are U?
+Peer B says:fine
