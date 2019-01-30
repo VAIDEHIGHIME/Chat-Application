@@ -1,8 +1,8 @@
-# CHAT APPLICATION 
+# Chat Application
 ```
 This is a peer to peer level application using  UDP socket Programming in C. 
 ```
-## USAGE
+## Usage
 
  ```                            
 While executing the Peer A /Peer B process use the following command
@@ -12,7 +12,7 @@ Peer B: gcc -o B peerB.c
        ./B
  ```
   
-## OUTPUT
+## Output
                            
 ```
 At Peer A:
