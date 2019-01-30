@@ -3,7 +3,8 @@
                               =======================================================
                               
                               
-                              This is a peer to peer level application using  UDP socket Programming in C. Peer A accepts strings from Peer B and vice versa.
+                              This is a peer to peer level application using  UDP socket Programming in C. 
+                              Peer A accepts strings from Peer B and vice versa.
 
                               =======================================================
                                                         USAGE
