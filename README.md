@@ -5,9 +5,9 @@
                               
 This is a peer to peer level application using  UDP socket Programming in C. Peer A accepts strings from Peer B and vice versa.
 
-=======================================================
-                          USAGE
-=======================================================
+                              =======================================================
+                                                        USAGE
+                              =======================================================
 While executing the Peer A /Peer B process use the following command
 
 Ex: gcc -o A peerA.c
@@ -18,9 +18,9 @@ Ex: gcc -o A peerA.c
 Ex: gcc -o B peerB.c
     ./B
   
-=======================================================
-                          OUTPUT
-=======================================================
+                              =======================================================
+                                                      OUTPUT
+                              =======================================================
 
 At Peer A:
 Peer A says:Hi?How are U?
