@@ -3,29 +3,29 @@
                               =======================================================
                               
                               
-This is a peer to peer level application using  UDP socket Programming in C. Peer A accepts strings from Peer B and vice versa.
+                              This is a peer to peer level application using  UDP socket Programming in C. Peer A accepts strings from Peer B and vice versa.
 
                               =======================================================
                                                         USAGE
                               =======================================================
-While executing the Peer A /Peer B process use the following command
+                              While executing the Peer A /Peer B process use the following command
 
-Ex: gcc -o A peerA.c
-    ./A
+                              Ex: gcc -o A peerA.c
+                                  ./A
     
-    OR
+                                    OR
     
-Ex: gcc -o B peerB.c
-    ./B
+                              Ex: gcc -o B peerB.c
+                                  ./B
   
                               =======================================================
                                                       OUTPUT
                               =======================================================
 
-At Peer A:
-Peer A says:Hi?How are U?
-Peer B:fine
+                              At Peer A:
+                              Peer A says:Hi?How are U?
+                              Peer B:fine
 
-At Peer B:
-Peer A:Hi?How are U?
-Peer B says:fine
+                              At Peer B:
+                              Peer A:Hi?How are U?
+                              Peer B says:fine
